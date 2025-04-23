@@ -17,7 +17,7 @@ $produits = $stmt->fetchAll(PDO::FETCH_ASSOC);
             background-color: gray;
         }
     </style>
-    <title>liste de produits</title>
+    <title>liste produits</title>
 <body>
     
     <!-- tableau d'affichage des produit de la base de donnees -->
